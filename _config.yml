@@ -151,7 +151,7 @@ footer:
       icon: "fab fa-fw fa-external-link-square"
       url: "https://staging.bsky.app/profile/blahaj.life"
     - label: "Fediverse"
-      icon: "fab fa-fw fa-mastodone
+      icon: "fab fa-fw fa-mastodon"
       url: "https://wetdry.world/@basti564"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
